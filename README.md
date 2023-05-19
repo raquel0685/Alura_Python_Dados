@@ -1,1 +1,1 @@
-# Alura_Python_Dados
+# Análise de dados utilizando Python.
